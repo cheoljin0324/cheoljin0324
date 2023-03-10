@@ -2,7 +2,7 @@
 
 
 ### 내가 할 줄 아는 것
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=white">
+
 
 <!--
 **cheoljin0324/cheoljin0324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheoljin0324&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheoljin0324&layout=compact&theme=tokyonight)
+
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=white">
