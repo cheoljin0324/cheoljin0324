@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 
+### 내가 할 줄 아는 것
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=white">
+
 <!--
 **cheoljin0324/cheoljin0324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
