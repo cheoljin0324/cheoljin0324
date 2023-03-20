@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheoljin0324&layout=compact&theme=tokyonight)
 
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=white">
+
+![HitCount]([http://ggm.gondr.net/user/profile/63](https://github.com/cheoljin0324/cheoljin0324/edit/main/README.md))
